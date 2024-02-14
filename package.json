@@ -1,0 +1,21 @@
+{
+    "name": "my-love-letter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/codediaz/my-love-letter.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/codediaz/my-love-letter/issues"
+    },
+    "homepage": "https://github.com/codediaz/my-love-letter#readme"
+  }
+  
